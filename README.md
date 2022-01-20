@@ -1,6 +1,6 @@
 # React + Graphql + TypeScript
 
-starter lit pour "Inscription + Connexion"
+starter kit pour "Inscription + Connexion"
 
 (pré-requis : node + npm)
 
